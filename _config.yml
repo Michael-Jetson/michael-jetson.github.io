@@ -6,15 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Pengfei Guo's Website"
+locale                   : "en-US" #语言
+title                    : "Pengfei Guo's Website" #左上角文本内容
 title_separator          : "-"
-name                     : &name "Pengfei Guo"
+name                     : &name "Pengfei Guo" #姓名
 description              : &description "a student"
 url                      : https://pengfeiguo.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Michael-Jetson/Michael-Jetson.github.io"
-teaser                   :  favicon.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "favicon.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Pengfei Guo"
-  avatar           : "./images/favicon.png"
-  bio              : "2001.01.13"
+  avatar           : "favicon.png"
+  bio              : 
   location         : "Baoding,China"
   employer         :
   pubmed           : 
