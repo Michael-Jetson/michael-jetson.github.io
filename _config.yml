@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "images/logo.webp"
+  avatar           : "./images/logo.webp"
   bio              : "2001.01.13"
   location         : "Baoding,China"
   employer         :
